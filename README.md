@@ -12,7 +12,7 @@
 
 ___
 
-<img align="right" height="180" width="220" src="/mnt/c/Users/hans9/OneDrive/Documents/Hans/Etude/Cours/Ecole19/GitHub/Profile/cat-typing.gif">
+<img align="right" height="180" width="220" src="/mnt/c/Users/hans9/OneDrive/Documents/Hans/Etude/Cours/Ecole19/GitHub/Profile/hans-brgs/cat-typing.gif">
 
 - 🔭 **I’m currently working on :** My PhD thesis && Software for semi-automated tracking of muscle architecture in ultrasound images.
 - 🌱 **I’m currently learning :** data science.
@@ -20,5 +20,6 @@ ___
 - 🤔 **I’m looking for help with :** tracking algorithms and deep learning.
 - 💬 **Ask me about :** Sports sciences, data science.
 - ⚡ **Hobbies :** Muscle hypertrophy, Street workout, Hikking, Etienne Klein's books.
+___
 
 <a><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hans-brgs&theme=github_dark"/><img height="150px" src="https://github-readme-stats.vercel.app/api?username=hans-brgs&theme=github_dark"/>
