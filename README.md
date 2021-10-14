@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hi there, I'm Hans 👋
 
-<!--
-**hans-brgs/hans-brgs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm a PhD student in **sports sciences** :weight_lifting: and **42 school** student (computer programming) :computer:.
+### My ambition is to offer algortihmic and software solutions to allow / optimize the analysis of biomechanical and physiological data from human movement.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p align="center">
+<a><img alt="Interview" src="https://img.shields.io/badge/Interview-lightgrey? &Color=black"></a>
+<a href="https://www.youtube.com/watch?v=TJNYSlm9ulM&t=27s"><img alt="LinkedIn" src="https://img.shields.io/badge/YouTube-FF0000?&logo=youtube&logoColor=white"></a>
+</p>
+
+___
+
+<img align="right" height="180" width="220" src="/mnt/c/Users/hans9/OneDrive/Documents/Hans/Etude/Cours/Ecole19/GitHub/Profile/cat-typing.gif">
+
+- 🔭 **I’m currently working on :** My PhD thesis && Software for semi-automated tracking of muscle architecture in ultrasound images.
+- 🌱 **I’m currently learning :** data science.
+- 👯 **I’m looking to collaborate on :** all projects on the performance of human movements.
+- 🤔 **I’m looking for help with :** tracking algorithms and deep learning.
+- 💬 **Ask me about :** Sports sciences, data science.
+- ⚡ **Hobbies :** Muscle hypertrophy, Street workout, Hikking, Etienne Klein's books.
+
+<a><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hans-brgs&theme=github_dark"/><img height="150px" src="https://github-readme-stats.vercel.app/api?username=hans-brgs&theme=github_dark"/>
