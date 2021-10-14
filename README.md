@@ -12,7 +12,7 @@
 
 ___
 
-<img align="right" height="200" width="220" src="cat-typing.gif">
+<img align="right" height="170" width="210" src="cat-typing.gif">
 
 - :student: **I’m currently working on :** My PhD thesis && Software for semi-automated tracking of muscle architecture in ultrasound images.
 - 🔬 **PhD topic :** Contribution to the optimization of the load contrast method & improved understanding of the muscle mechanisms of Post-Activation-Potentation.
