@@ -12,14 +12,13 @@
 
 ___
 
-<img align="right" height="180" width="220" src="cat-typing.gif">
+<img align="right" height="200" width="220" src="cat-typing.gif">
 
-- 🔭 **I’m currently working on :** My PhD thesis && Software for semi-automated tracking of muscle architecture in ultrasound images.
-- 🌱 **I’m currently learning :** data science.
+- :student: **I’m currently working on :** My PhD thesis && Software for semi-automated tracking of muscle architecture in ultrasound images.
+- 🔬 **PhD topic :** Contribution to the optimization of the load contrast method & improved understanding of the muscle mechanisms of Post-Activation-Potentation.
 - 👯 **I’m looking to collaborate on :** all projects on the performance of human movements.
 - 🤔 **I’m looking for help with :** tracking algorithms and deep learning.
-- 💬 **Ask me about :** Sports sciences, data science.
 - ⚡ **Hobbies :** Muscle hypertrophy, Street workout, Hikking, Etienne Klein's books.
 ___
 
-<a><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hans-brgs&theme=github_dark"/><img height="150px" src="https://github-readme-stats.vercel.app/api?username=hans-brgs&theme=github_dark"/>
+<a><img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hans-brgs&theme=github_dark"/><img height="150px" src="https://github-readme-stats.vercel.app/api?username=hans-brgs&theme=github_dark"/>
