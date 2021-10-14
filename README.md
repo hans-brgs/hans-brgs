@@ -12,7 +12,7 @@
 
 ___
 
-<img align="right" height="180" width="220" src="/mnt/c/Users/hans9/OneDrive/Documents/Hans/Etude/Cours/Ecole19/GitHub/Profile/hans-brgs/cat-typing.gif">
+<img align="right" height="180" width="220" src="cat-typing.gif">
 
 - 🔭 **I’m currently working on :** My PhD thesis && Software for semi-automated tracking of muscle architecture in ultrasound images.
 - 🌱 **I’m currently learning :** data science.
